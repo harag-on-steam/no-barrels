@@ -1,0 +1,9 @@
+{
+	"name": "no-barrels",
+	"version": "0.1.0",
+	"factorio_version": "0.16",
+	"title": "No Barrels",
+	"author": "Harag",
+	"description": "Barreling doesn't need or generate empty barrels. Supports mods as long as they adhere to the default recipe naming-convention.",
+	"dependencies": ["base >= 0.16.0"]
+}
